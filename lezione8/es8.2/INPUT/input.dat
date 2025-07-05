@@ -1,0 +1,13 @@
+RESTART                0
+TEMP                   1
+NPART                  1
+DELTA                  2
+NBLOCKS                20
+NSTEPS                 2000
+MEDIA                  0.5
+SIGMA                  0.723476521
+SABLOCKS               100
+
+ENDINPUT
+
+#nota che RHO è irrilevante per la misura di <H> ma serve per far partire il codice

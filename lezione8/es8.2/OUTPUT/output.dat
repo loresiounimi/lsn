@@ -1,0 +1,12 @@
+TEMPERATURA_iniziale= 1
+NPART= 1
+DELTA= 2
+NBLOCKS= 20
+NSTEPS= 2000
+MEDIA_iniziale= 0.5
+SIGMA_iniziale= 0.723477
+SABLOCKS= 100
+Reading input completed!
+System initialized!
+Reading properties completed!
+Simulation completed!
