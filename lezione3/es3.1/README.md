@@ -1,1 +1,0 @@
-il generatore di numeri casuali in questi esercizi è inizializzato con seme seed.out, di conseguenza ogni volta che il codice viene lanciato produrra risultati e grafici differenti perchè il seme cambia ogni volta
